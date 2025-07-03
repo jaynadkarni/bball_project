@@ -24,6 +24,8 @@ Make sure these files are in the same folder:
 4. TeamStatistics.csv
 5. PlayerStatistics.csv
 
+Install the CSV Files [here](https://drive.google.com/drive/folders/1juEKjzZeW4U2LjQtOHTShpbp-v2V4P74?usp=drive_link).
+
 Install the required Python packages:
 - pip install streamlit pandas numpy scikit-learn
 - Run the app with: streamlit run app.py
